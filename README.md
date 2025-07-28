@@ -2,7 +2,7 @@
 
 **DSAbuddy** is a MERN-stack-based web application designed to help aspiring developers master **Data Structures and Algorithms (DSA)**. Whether you're a beginner or preparing for interviews, DSAbuddy offers tools, mentorship, and AI-powered assistance to supercharge your coding journey.
 
----
+--
 
 ## 🚀 Features
 
